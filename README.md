@@ -33,6 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelkarime-alhannachi&" alt="abdelkarime-alhannachi" /></p>
 
-![snake gif] (https://github.com/abdelkarime-alhannachi/abdelkarime-alhannachi/blob/outputgithub-contribution-grid-snake.gif)
+![snake gif] (https://github.com/abdelkarime-alhannachi/abdelkarime-alhannachi/outputgithub-contribution-grid-snake.gif)
 
 
