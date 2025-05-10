@@ -3,6 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelkarime-alhannachi" alt="abdelkarime-alhannachi" /></a> </p>
 
+<p align="center">
+  <img
+    src="https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-7214-620a-8950-4ff252b977a3/raw?se=2025-05-10T20%3A13%3A01Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=76024c37-11e2-4c92-aa07-7e519fbe2d0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-10T07%3A24%3A59Z&ske=2025-05-11T07%3A24%3A59Z&sks=b&skv=2024-08-04&sig=BD1nMeEteJSJ5JKxBB9kGJ7wAF/uSnKdkkgV7uWOa44%3D"
+    alt="Hello World! I'm Abdelkarime"
+    style="max-width:100%; height:auto;"
+  />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abdelkarime-alhannachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdelkarime-alhannachi" height="30" width="40" /></a>
